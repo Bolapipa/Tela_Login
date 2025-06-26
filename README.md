@@ -1,3 +1,34 @@
+
+Este projeto demonstra como criar uma interface gráfica de login usando a biblioteca CustomTkinter, que oferece uma aparência moderna e personalizável.
+Funcionalidades:
+- Login básico: Verifica usuário e senha (valores fixos).
+- Mostrar/ocultar senha: Permite alternar a visualização do campo de senha com um clique.
+- Modo claro/escuro: Troca dinâmica entre temas com um botão.
+- Feedback visual: Mensagens coloridas informam se o login foi bem-sucedido ou não.
+É um ótimo exemplo para iniciantes que queiram aprender:
+- Manipulação de eventos com botões;
+- Interação com campos de entrada (Entry);
+- Troca de temas e elementos gráficos.
+
+
+
+![image](https://github.com/user-attachments/assets/80d120cc-8959-4b3a-94b6-106d6a5c5aef)
+
+
+![image](https://github.com/user-attachments/assets/ab61ae94-06bf-417b-aea9-cdca31fbad93)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Explicação do Código - Interface de Login com CustomTkinter
 
 ```python
