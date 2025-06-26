@@ -1,4 +1,4 @@
-
+***Antes de começar o projeto lembre-se de ir ao CMD e digitar pip install customtkinter***
 Este projeto demonstra como criar uma interface gráfica de login usando a biblioteca CustomTkinter, que oferece uma aparência moderna e personalizável.
 Funcionalidades:
 - Login básico: Verifica usuário e senha (valores fixos).
